@@ -1,0 +1,41 @@
+FIELD       FIELD     STARTING               
+NUMBER       NAME      COLUMN   WIDTH  TYPE  COMMENTS
+*****************************************************************************************************************
+   1     Active Year       1       4    I    Active Year
+   2     State Code        5       1    a    State Code:  F=49-State, C=California
+   3     Carline Clss      6       2    I    Carline Class Code
+   4     Carline Mfr       8       3    I    Carline Manufacturer Code
+   5     Carline Name     11      28    a    Carline Name
+   6     Disp Cub in      39       4    I    Disp Cubic Inches
+   7     Fuel System      43       2    a    Fuel System: 'Fi' for Fuel Injection, 2-Digit Integer Value 
+                                             for #of Venturies if Carburetor System.
+   8     Model Trans      45       6    a    Transmission Type
+   9     No Cyc           51       2    I    Number of Engine Cylinders
+  10     Date   Time      53      12    a    Date and Time Record Entered - YYMMDDHHMMSS (Year, Month, Day, 
+                                             Hour, Minute, Second)
+  11     Release Date     65       6    a    Release Date - YYMMDD (Year, Month, Day)
+  12     Vi Mfr Code      71       3    I    Vi Manufacturer Code
+  13     Filler           74       5    H    Not Used
+  14     Basic Eng Id     79       5    I    Basic Engine Index
+  15     Carline Mfr Name 84      32    a    Carline Manufacturer Name
+  16     Suppress Code   116       1    I    Suppression Code (No Suppressed Record if for Public Access)
+  17     Filler          117      15    H    Not Used
+  18     Est City Mpg    132       3    I    Estimated (City) Miles Per Gallon
+  19     Highway Mpg     137       3    I    Highway Miles Per Gallon
+  20     Combined Mpg    142       3    I    Combined Miles Per Gallon
+  21     Ave Anl Fuel    147       6    a    "$" in Col 147, Annual Fuel Cost Starting Col 148, in I5
+  22     Opt Disp        153       8    a    Optional Displacement
+  23     Engine Desc1    161      10    a    Engine Description 1
+  24     Engine Desc2    171      10    a    Engine Description 2
+  25     Filler          181      10    H    Not Used
+  26     Body Type 2D    191      10    a    Body Type 2 Door - if the Body type Applies It Will Take the
+                                             Form '2Dr-Ppp/Ll' Where Ppp=Passenger Interior Volume and
+                                             Ll=Luggage Interior Volume.
+  27     Body Type 4D    201      10    a    Body Type 4 Door - if the Body Type Applies It Will Take the
+                                             Form '4Dr-Ppp/Ll' Where Ppp=Passenger Interior Volume and
+                                             Ll=Luggage Interior Volume.
+  28     Body Type Hbk   211      10    a    Body Type Hbk    - if the Body Type Applies It Will Take the
+                                             Form 'Hbk-Ppp/Ll' Where Ppp=Passenger Interior Volume and
+                                             Ll=Luggage Interior Volume.
+  28     Puerto Rico     221       1    a    '*' if for Puerto Rico Sales Only
+  29     Overdrive       222       4    a    '(Od)' if Electrically Operated Overdrive
