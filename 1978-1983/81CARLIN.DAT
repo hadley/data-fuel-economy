@@ -1,0 +1,390 @@
+01TWO SEATER                        TWO SEATERS                                                     81000011
+02MINICOMPACT                     MINICOMPACT CARS                                                  81000021
+03SUBCOMPACT                      SUBCOMPACT CARS                                                   81000031
+04COMPACT                           COMPACT CARS                                                    81000041
+05MID-SIZE                         MID-SIZE CARS                                                    81000051
+06LARGE                              LARGE CARS                                                     81000061
+07SMALL WAGON                   SMALL STATION WAGONS                                                81000071
+08MID-SIZE WAGON              MID-SIZE STATION WAGONS                                               81000081
+09LARGE WAGON                   LARGE STATION WAGONS                                                81000091
+10SMALL P/U 2WD                 SMALL PICKUP TRUCKS         TWO-WHEEL DRIVE                         81000101
+11SMALL P/U 4WD                 SMALL PICKUP TRUCKS         FOUR-WHEEL DRIVE                        81000111
+12STNDRD P/U 2WD               STANDARD PICKUP TRUCKS       TWO-WHEEL DRIVE                         81000121
+13STNDRD P/U 4WD               STANDARD PICKUP TRUCKS       FOUR-WHEEL DRIVE                        81000131
+14VANS CARGO                           VANS                 CARGO VANS                              81000141
+15VANS PASSENGER                       VANS                 PASSENGER VANS                          81000151
+16OTHER VANS                                                                                        81000161
+17SPEC  PURPOSE 2WD           SPECIAL PURPOSE VEHICLES      TWO-WHEEL DRIVE                         81000171
+18SPEC  PURPOSE 4WD           SPECIAL PURPOSE VEHICLES      FOUR-WHEEL DRIVE                        81000181
+19SPEC  PURPOSE CAB CHAS0     SPECIAL PURPOSE VEHICLES      CAB CHASSIS                             81000191
+ALFA ROMEO                                                                     ALFA ROMEO           81010002
+GTV 6 2.5                         02  73.555  6.535   74  7                    GTV 6 2.5            81010073
+SPIDER 2000 VELOCE                01                                           SPIDER 2000 VELOCE   81010103
+ALFA 6                                                                         ALFA 6               81010153
+AMC                                                                            AMC                  81020002
+SPIRIT                            03  76.286 12.388   78 12           75 12    SPIRIT               81020053
+CONCORD                           04  90.334 12.197   90 12   90 12            CONCORD              81020203
+CONCORD WAGON                     07  90.859 29.924           91 30            CONCORD WAGON        81020253
+ASTON MARTIN                                                                   ASTON MARTIN         81040002
+SALOON/VANTAGE/VOLANTE            03  86.250  7.184   80  7                    SALOON/VANTAGE/VOLANT81040053
+AUDI                                                                           AUDI                 81050002
+4000                              03  84.678 11.820   84 12   85 12            4000                 81050113
+5000                              04  89.921 14.877           90 15            5000                 81050153
+QUATTRO                                                                        QUATTRO              81050203
+AURORA CARS                                                                    AURORA CARS          81055002
+GRX AURORA                        01                                           GRX AURORA           81055103
+AVANTI                                                                         AVANTI               81065002
+RQB                               02  75.252  8.192   75  8                    RQB                  81065053
+BMW                                                                            BMW                  81070002
+320 I                             03  81.899 12.104   82 12                    320 I                81070053
+528 I                             03  86.246 13.286           86 13            528 I                81070103
+633 CSI                           03  83.573 11.927   84 12                    633 CSI              81070153
+733 I                             04  94.217 13.423           94 13            733 I                81070203
+BRISTOL                                                                        BRISTOL              81075002
+BUICK                                                                          BUICK                81080002
+SKYLARK                           04  94.295 14.270   94 14   95 14            SKYLARK              81080053
+CENTURY                           05 102.168 16.280          102 16            CENTURY              81080203
+REGAL                             05  98.220 17.135   98 17                    REGAL                81080223
+CENTURY WAGON                     08 100.518 39.684          101 40            CENTURY WAGON        81080253
+LESABRE                           06 108.660 20.798  107 21  110 21            LESABRE              81080303
+LESABRE/ELECTRA ESTATE WAGON      09 110.143 50.347          110 50            LESABRE/ELECTRA WAGON81080353
+ELECTRA                           06 111.145 20.798  110 21  113 21            ELECTRA              81080403
+RIVIERA                           05  99.963 15.818  100 16                    RIVIERA              81080453
+CADILLAC                                                                       CADILLAC             81100002
+SEVILLE                           05 100.870 14.468          101 14            SEVILLE              81100053
+DEVILLE/BROUGHAM                  06 110.084 19.557  108 20  112 20            DEVILLE/BROUGHAM     81100103
+LIMOUSINE                         06 114.496 16.797          114 17            LIMOUSINE            81100153
+ELDORADO                          05  98.735 14.953   99 15                    ELDORADO             81100203
+CAMELOT MOTORS                                                                 CAMELOT MOTORS       81105002
+T-57                              01                                           T-57                 81105103
+CHECKER                                                                        CHECKER              81110002
+MARATHON/TAXICAB                  05  99.577 13.691          100 14            MARATHON/TAXICAB     81110053
+MARATHON/TAXICAB-E                05  99.577 13.691          100 14            MARATHON/TAXICAB-E   81110103
+CHEVROLET                                                                      CHEVROLET            81120002
+CHEVETTE                          03  79.382  9.853                   79 10    CHEVETTE             81120053
+CITATION                          05  95.290 19.602                   95 20    CITATION             81120203
+CAMARO                            03  84.790  9.182   85  9                    CAMARO               81120253
+MALIBU                            05  99.089 16.560   96 17  102 17            MALIBU               81120303
+MALIBU WAGON                      08 100.998 39.950          101 40            MALIBU WAGON         81120353
+IMPALA/CAPRICE                    06 108.722 20.907  107 21  110 21            IMPALA/CAPRICE       81120403
+IMPALA/CAPRICE WAGON              09 110.068 50.016          110 50            IMPALA/CAPRICE WGN   81120453
+MONTE CARLO                       05  96.820 16.824   97 17                    MONTE CARLO          81120503
+CORVETTE                          01                                           CORVETTE             81120553
+CHRYSLER                                                                       CHRYSLER             81130002
+LEBARON                           05  95.187 15.204   92 15   99 16            LEBARON              81130053
+LEBARON WAGON                     08  99.812 39.030          100 39            LEBARON WAGON        81130103
+CORDOBA                           05  98.945 16.742   99 17                    CORDOBA              81130153
+NEWPORT/NEW YORKER                06 107.607 21.331          108 21            NEWPORT/NEW YORKER   81130203
+DATSUN                                                                         DATSUN               81150002
+210                               03  75.268  9.960   77  8   77  8   72 13    210                  81150053
+210 WAGON                         07  72.407 27.248           72 27            210 WAGON            81150073
+B11                                                                            B11                  81150083
+B11 WAGON                                                                      B11 WAGON            81150093
+310                               03  73.227 13.624                   73 14    310                  81150103
+510                               03  75.272 10.680   77  8           74 13    510                  81150203
+510 WAGON                         07  77.961 29.351           78 29            510 WAGON            81150253
+810                               03  82.541 10.235           83 10            810                  81150303
+810 WAGON                         07  84.816 31.310           85 31            810 WAGON            81150353
+280ZX                             01                                           280ZX                81150403
+280ZX 2+2                         03  71.705 13.889                   72 14    280ZX 2+2            81150423
+200SX                             03  75.514 10.039   77  8           74 12    200SX                81150453
+DELOREAN                                                                       DELOREAN             81155002
+DMC 12                            01                                           DMC 12               81155053
+DODGE                                                                          DODGE                81160002
+OMNI                              04  84.840 15.166                   85 15    OMNI                 81160053
+024/DE TOMASO                     03  76.728 18.624                   77 19    024/DE TOMASO        81160073
+CHALLENGER                        03  79.788  9.275   80  9                    CHALLENGER           81160153
+COLT                              03  76.652 11.090                   77 11    COLT                 81160273
+DIPLOMAT                          05  95.018 15.204   92 15   98 16            DIPLOMAT             81160403
+DIPLOMAT WAGON                    08  99.812 39.030          100 39            DIPLOMAT WAGON       81160453
+ARIES                             05  95.563 15.094   96 15   95 15            ARIES                81160503
+ARIES WAGON                       08  96.608 34.212           97 34            ARIES WAGON          81160553
+ST. REGIS                         06 107.607 21.331          108 21            ST. REGIS            81160703
+MIRADA                            05  99.854 16.742  100 17                    MIRADA               81160753
+FERRARI                                                                        FERRARI              81170002
+308                               01                                           308                  81170053
+MONDIAL 8                         02  75.007  3.410   75  3                    MONDIAL 8            81170103
+FIAT                                                                           FIAT                 81180002
+STRADA                            04  84.972 16.048                   85 16    STRADA               81180103
+BRAVA                             03  84.930 10.779   85 11   85 11            BRAVA                81180153
+SPIDER 2000                       01                                           SPIDER 2000          81180253
+X1/9                              01                                           X1/9                 81180403
+FORD                                                                           FORD                 81190002
+LASER                             03  85.301 13.790           85 13   86 15   *LASER                81190043
+MUSTANG                           03  84.513 10.970   85 10           84 12    MUSTANG              81190153
+FAIRMONT                          05  95.343 16.780   95 17   96 17            FAIRMONT             81190193
+FAIRMONT WAGON                    08  97.228 43.163           97 43            FAIRMONT WAGON       81190213
+GRANADA                           05  93.604 17.004   93 17   94 17            GRANADA              81190253
+ESCORT                            04  85.634 16.305                   86 16    ESCORT               81190303
+ESCORT WAGON                      07  86.470 29.624           86 30            ESCORT WAGON         81190353
+LTD                               06 110.594 22.381  110 22  111 22            LTD                  81190453
+LTD WAGON                         09 112.173 52.709          112 53            LTD WAGON            81190503
+THUNDERBIRD                       05  94.089 17.670   94 18                    THUNDERBIRD          81190553
+HONDA                                                                          HONDA                81210002
+CIVIC                             02  73.536  9.636           76 10   73  9    CIVIC                81210053
+CIVIC WAGON                       07  75.052 26.782           75 27            CIVIC WAGON          81210153
+ACCORD                            03  78.944 12.130           81 10   77 14    ACCORD               81210203
+PRELUDE                           02  71.868  8.968   72  9                    PRELUDE              81210253
+HYUNDAI MOTOR COMPANY                                                          HYUNDAI MOTOR CO     81212002
+IMPERIAL                                                                       IMPERIAL             81214002
+IMPERIAL                          05  97.842 16.047   98 16                    IMPERIAL             81214103
+ISUZU                                                                          ISUZU                81215002
+I-MARK                            03  77.298  9.927   76 10   78 10            I-MARK               81215103
+JAGUAR                                                                         JAGUAR               81220002
+XJ                                04  90.511  9.986           91 10            XJ                   81220053
+XJS                                                                            XJS                  81220103
+LANCIA                                                                         LANCIA               81235002
+BETA/ZAGATO                       03  75.483  9.730   71  9   85 12            BETA/ZAGATO          81235303
+LEGEND                                                                         LEGEND               81237002
+SPIDER TURBO                      01                                           SPIDER TURBO         81237053
+LINCOLN-MERCURY                                                                LINCOLN-MERCURY      81240002
+CAPRI                             03  84.320 11.972                   84 12    CAPRI                81240103
+ZEPHYR                            05  95.343 16.780   95 17   96 17            ZEPHYR               81240163
+ZEPHYR WAGON                      08  97.228 43.163           97 43            ZEPHYR WAGON         81240173
+COUGAR                            05  93.680 17.004   93 17   94 17            COUGAR               81240203
+XR7                               05  94.089 17.670   94 18                    XR7                  81240253
+LYNX                              04  85.634 16.305                   86 16    LYNX                 81240303
+LYNX WAGON                        07  86.028 29.624           86 30            LYNX WAGON           81240353
+MARQUIS                           06 110.594 22.381  110 22  111 22            MARQUIS              81240403
+MARQUIS WAGON                     09 112.173 52.709          112 53            MARQUIS WAGON        81240453
+TOWN CAR                          06 114.414 22.372  113 22  116 22            TOWN CAR             81240503
+CONTINENTAL MARK VI               06 111.586 22.372  107 22  116 22            CONT. MARK VI        81240553
+LOTUS                                                                          LOTUS                81250002
+ESPRIT II                         01                                           ESPRIT II            81250053
+ELITE/ECLAT                       02                                           ELITE/ECLAT          81250103
+MASERATI                                                                       MASERATI             81260002
+MERAK                             01                                           MERAK                81260053
+QUATTROPORTE                      05 107.102 10.285          107 10            QUATTROPORTE         81260203
+MAZDA                                                                          MAZDA                81270002
+626                               03  78.758 12.630   78 12   79 13            626                  81270103
+GLC                               03  85.301 13.790           85 13   86 15    GLC                  81270203
+GLC WAGON                         07  78.302 29.212           78 29            GLC WAGON            81270263
+RX-7                              01                                           RX-7                 81270403
+MERCEDES-BENZ                                                                  MERCEDES-BENZ        81280002
+240D/280E/280CE/300D/300CD        04  88.348 12.568   84 13   92 13            240D/280E/300D       81280053
+300TD                             08  93.815 41.101           94 41            300TD                81280103
+300SD                             04  93.603 15.160           94 15            300SD                81280153
+380SEL                            05 100.085 15.160          100 15            380SEL               81280303
+6.9                                                                            6.9                  81280353
+380SL                             01                                           380SL                81280403
+380SLC                            03  79.766  7.703   80  8                    380SLC               81280453
+MG                                                                             MG                   81285002
+MGB                                                                            MGB                  81285153
+MITSUBISHI                                                                     MITSUBISHI           81287002
+DODGE CHALLENGER                  03  79.788  9.275   80  9                   *DODGE CHALLENGER     81287153
+DODGE COLT                        03  76.652 11.090                   77 11   *DODGE COLT           81287273
+PLYMOUTH SAPPORO                  03  79.788  9.275   80  9                   *PLYMOUTH SAPPORO     81287403
+PLYMOUTH CHAMP                    03  76.652 11.090                   77 11   *PLYMOUTH CHAMP       81287503
+MODEL A AND MODEL T REPRODUCTION                                               MODEL A&T REPRO.     81288002
+MODEL A ROADSTER REPRODUCTION     01                                           MODEL A RDSTR REPRO  81288103
+SHAY REPRODUCTION/55 BIRD         01                                           SHAY REPRO/55 BIRD   81288203
+OLDSMOBILE                                                                     OLDSMOBILE           81290002
+OMEGA                             04  94.954 14.270   95 14   95 14            OMEGA                81290053
+CUTLASS                           05  99.306 16.192   97 16  102 16            CUTLASS              81290153
+CUTLASS SUPREME/CALAIS            05  98.032 16.781   98 17                    CUTLASS SUPREM/CALAIS81290183
+CUTLASS WAGON                     08 100.518 39.684          101 40            CUTLASS WAGON        81290203
+DELTA 88                          06 109.235 20.798  108 21  111 21            DELTA 88             81290253
+CUSTOM CRUISER WAGON              09 110.165 50.016          110 50            CUSTOM CRUISER WG    81290303
+NINETY-EIGHT                      06 111.802 20.493  109 20  115 20            NINETY-EIGHT         81290353
+TORONADO                          05 100.057 15.227  100 15                    TORONADO             81290403
+PEUGEOT                                                                        PEUGEOT              81310002
+504 WAGON                         08  88.952 43.936           89 44            504 WAGON            81310103
+505                               04  89.839 10.744           90 11            505                  81310153
+604                                                                            604                  81310253
+PLYMOUTH                                                                       PLYMOUTH             81320002
+HORIZON                           04  84.840 15.166                   85 15    HORIZON              81320053
+TC3/TURISMO                       03  76.728 18.624                   77 19    TC3/TURISMO          81320073
+GRAN FURY                         06 107.607 21.331          108 21            GRAN FURY            81320303
+SAPPORO                           03  79.788  9.275   80  9                    SAPPORO              81320403
+CHAMP                             03  76.652 11.090                   77 11    CHAMP                81320503
+RELIANT                           05  95.563 15.094   96 15   95 15            RELIANT              81320603
+RELIANT WAGON                     08  96.608 34.212           97 34            RELIANT WAGON        81320653
+PONTIAC                                                                        PONTIAC              81330002
+T1000                             03  79.382  9.853                   79 10    T1000                81330053
+PHOENIX                           05  95.012 16.710   94 14           96 20    PHOENIX              81330153
+FIREBIRD                          03  84.790  9.182   85  9                    FIREBIRD             81330203
+LEMANS                            05  99.041 16.560   96 17  102 17            LEMANS               81330253
+LEMANS SAFARI WAGON               08 100.902 39.950          101 40            LEMANS SAFARI WG     81330303
+CATALINA/BONNEVILLE               06 109.278 20.803  108 21  111 21            CATALINA/BONNE.      81330453
+CATALINA/BONNEVILLE SAFARI WAGON  09 110.337 50.347          110 50            CATALINA/BONNE WGN   81330503
+GRAND PRIX                        05  96.634 16.624   97 17                    GRAND PRIX           81330553
+PORSCHE                                                                        PORSCHE              81340002
+911                               01                                           911                  81340103
+924                               01                                           924                  81340253
+928                               02  74.295  7.969                   74  8    928                  81340303
+RENAULT                                                                        RENAULT              81350002
+LE CAR                            02  73.794 10.268                   74 10    LE CAR               81350053
+18 I                              03  85.884 11.948           86 12            18 I                 81350103
+18 I WAGON                        07  86.495 35.005           86 35            18 I WAGON           81350153
+ROLLS-ROYCE MOTORS LTD.                                                        ROLLS-ROYCE MTRS LTD.81360002
+CAMARGUE                          04  96.273 13.590   96 14                    CAMARGUE             81360153
+CORNICHE                          03  81.390 10.719   81 11                    CORNICHE             81360203
+SILVER SHADOW II/WRAITH II/T2                                                  SLVR SHDW 2/WRTH 2/T281360253
+SILVER SPIRIT/SPUR/MULSANNE       05  98.779 14.502           99 15            SLVR SPRT/SPUR/MULSN 81360353
+ROVER                                                                          ROVER                81365002
+ROVER 3510                        04  87.777 21.338                   88 21    ROVER 3500           81365103
+SAAB                                                                           SAAB                 81370002
+900                               04  88.398 18.018           89 14   88 22    900                  81370103
+SATRA                                                                          SATRA                81375002
+EXCALIBUR AUTOS                                                                EXCALIBUR AUTOS      81377002
+PHAETON                           02  44.173  4.142   44  4                    PHAETON              81377053
+SUBARU                                                                         SUBARU               81380002
+SUBARU                            03  77.565 11.803   77 12   78 12   78 12    SUBARU               81380053
+SUBARU 4WD                        03  77.826 11.977                   78 12    SUBARU 4WD           81380103
+SUBARU WAGON                      07  78.416 28.881           78 29            SUBARU WAGON         81380153
+SUBARU WAGON 4WD                  07  78.416 28.881           78 29            SUBARU WAGON 4WD     81380203
+BRAT 4WD                          18                                           BRAT 4WD             81380253
+TOYOTA                                                                         TOYOTA               81390002
+COROLLA                           03  76.723 11.694   77 10   79 11   75 14    COROLLA              81390053
+COROLLA WAGON                     07  76.743 31.216           77 31            COROLLA WAGON        81390103
+CORONA                            03  78.560 13.258           80 11   77 16    CORONA               81390153
+CORONA WAGON                      07  81.328 36.405           81 36            CORONA WAGON         81390203
+CELICA                            03  75.329 11.460   76  9           75 14    CELICA               81390253
+CELICA SUPRA                      03  75.151 12.725                   75 13    CELICA SUPRA         81390283
+CRESSIDA                          03  85.245 12.439           85 12            CRESSIDA             81390303
+CRESSIDA WAGON                    07  87.385 37.221           87 37            CRESSIDA WAGON       81390353
+COROLLA TERCEL                    03  80.147 10.602   80  9   80  9   80 13    COROLLA TERCEL       81390403
+STARLET                           02  72.637 10.312                   73 10    STARLET              81390503
+TRIUMPH                                                                        TRIUMPH              81400002
+TR                                01                                           TR                   81400103
+TVR ENGINEERING LTD                                                            TVR ENG. LTD         81410002
+VEHICLE TECHNOLOGY                                                             VEHICLE TECHNOLOGY   81415002
+LTD/MARQUIS                       06 110.594 22.381  110 22  111 22            LTD/MARQUIS          81415103
+LTD/MARQUIS WAGON                 09 112.173 52.709          112 53            LTD/MARQUIS WAGON    81415153
+TOWN CAR                          06 114.414 22.372  113 22  116 22            TOWN CAR             81415203
+MARK VI                           06 111.586 22.372  107 22  116 22            MARK VI              81415303
+VOLKSWAGEN                                                                     VOLKSWAGEN           81420002
+RABBIT                            03  76.956 11.164   77  6           77 14    RABBIT               81420103
+DASHER                            03  75.461 14.836                   75 15    DASHER               81420203
+DASHER WAGON                      07  75.188 30.974           75 31            DASHER WAGON         81420303
+SCIROCCO                          03  71.964 13.996                   72 14    SCIROCCO             81420403
+JETTA                             03  77.072 13.261   78 13   77 13            JETTA                81420503
+VOLVO                                                                          VOLVO                81430002
+VOLVO SEDAN                       04  89.220 13.820   89 14   89 14            VOLVO SEDAN          81430053
+VOLVO STATION WAGON               08  89.220 41.098           89 41            VOLVO STAT WGN       81430103
+AM GENERAL                                                                     AM GENERAL           81510002
+DJ POST OFFICE VEHICLE 2WD        17                                           DJ P.O. VEH. 2WD     81510053
+AMC                                                                            AMC                  81515002
+EAGLE 4WD                         18                                           EAGLE 4WD            81515053
+EAGLE: KAMMBACK,SX/4 4WD          18                                           EAGLE:KMBK,SX/4 4WD  81515103
+CADILLAC                                                                       CADILLAC             81530002
+COMMERCIAL CHASSIS                19                                           COMMERCIAL CHAS.     81530053
+CHEVROLET                                                                      CHEVROLET            81550002
+LUV PICKUP 2WD                    10                                           LUV P/U 2WD          81550053
+LUV PICKUP 4WD                    11                                           LUV P/U 4WD          81550073
+LUV CAB CHASSIS                   19                                           LUV CAB CHAS.        81550103
+C10 PICKUP 2WD                    12                                           C10 P/U 2WD          81550153
+C20 PICKUP 2WD                    12                                           C20 P/U 2WD          81550203
+EL CAMINO PICKUP 2WD              12                                           EL CAMINO P/U 2WD    81550253
+K10 PICKUP 4WD                    13                                           K10 P/U 4WD          81550303
+K20 PICKUP 4WD                    13                                           K20 P/U 4WD          81550353
+G10/G20 SPORTVAN 2WD              15                                           G10/G20 SPRTVN 2WD   81550403
+G10/G20 VAN 2WD                   14                                           G10/G20 VAN 2WD      81550503
+G30 SPORTVAN 2WD                  15                                           G30 SPRTVN 2WD       81550543
+G30 VAN 2WD                       14                                           G30 VAN 2WD          81550583
+C10 BLAZER 2WD                    17                                           C10 BLAZER 2WD       81550603
+C10 SUBURBAN 2WD                  17                                           C10 SUBURBAN 2WD     81550653
+K10 BLAZER 4WD                    18                                           K10 BLAZER 4WD       81550753
+K10 SUBURBAN 4WD                  18                                           K10 SUBURBAN 4WD     81550803
+DATSUN                                                                         DATSUN               81600002
+PICKUP 2WD                        10                                           P/U 2WD              81600053
+PICKUP 4WD                        11                                           P/U 4WD              81600073
+PICKUP CAB CHASSIS                19                                           P/U CAB CHAS.        81600103
+DODGE                                                                          DODGE                81650002
+RAM50 PICKUP 2WD                  10                                           RAM50 P/U 2WD        81650053
+D150 PICKUP 2WD                   12                                           D150 P/U 2WD         81650103
+D250 PICKUP 2WD                   12                                           D250 P/U 2WD         81650153
+W150 PICKUP 4WD                   13                                           W150 P/U 4WD         81650203
+W250 PICKUP 4WD                   13                                           W250 P/U 4WD         81650253
+B150/B250 WAGON 2WD               15                                           B150/250 WAGON 2WD   81650303
+B350 WAGON 2WD                    15                                           B350 WAGON 2WD       81650353
+B150/B250 VAN 2WD                 14                                           B150/B250 VAN 2WD    81650453
+B350 VAN 2WD                      14                                           B350 VAN 2WD         81650503
+B250 VAN CONVERSION 2WD           14                                           B250 VAN CONVERS     81650603
+B350 VAN CONVERSION 2WD           14                                           B350 VAN CONVR 2WD   81650653
+AD150 RAMCHARGER 2WD              17                                           AD150 RAMCHRGR 2WD   81650703
+AW150 RAMCHARGER 4WD              18                                           AW150 RAMCHRGR 4WD   81650753
+D250 PICKUP CAB CHASSIS           19                                           D250 P/U CAB CHAS.   81650803
+FORD                                                                           FORD                 81700002
+COURIER PICKUP 2WD                10                                           COURIER P/U 2WD      81700053
+COURIER PICKUP CAB CHASSIS        19                                           COURIER P/U CAB CHAS.81700073
+F100/F150 PICKUP 2WD              12                                           F100/F150 P/U 2WD    81700103
+F250 PICKUP 2WD                   12                                           F250 P/U 2WD         81700153
+F150 PICKUP 4WD                   13                                           F150 P/U 4WD         81700253
+F250 PICKUP 4WD                   13                                           F250 P/U 4WD         81700303
+E100/150 ECONOLINE 2WD            14                                           E100/150 2WD (CARGO) 81700403
+E250 ECONOLINE 2WD                14                                           E250 2WD (CARGO)     81700453
+E100/150 CLUB WAGON 2WD           15                                           E100/150 2WD (PASS.) 81700503
+E250 CLUB WAGON 2WD               15                                           E250 2WD (PASS.)     81700553
+BRONCO 4WD                        18                                           BRONCO 4WD           81700603
+F250 PICKUP CAB CHASSIS           19                                           F250 P/U CAB CHASS.  81700653
+GMC                                                                            GMC                  81800002
+CABALLERO PICKUP 2WD              12                                           CABALLERO P/U 2WD    81800053
+C15 PICKUP 2WD                    12                                           C15 P/U 2WD          81800103
+C25 PICKUP 2WD                    12                                           C25 P/U 2WD          81800153
+K15 PICKUP 4WD                    13                                           K15 P/U 4WD          81800203
+K25 PICKUP 4WD                    13                                           K25 P/U 4WD          81800253
+G15/G25 SPORTVAN 2WD              15                                           G15/G25 SPRTVN 2WD   81800303
+G15/G25 VAN 2WD                   14                                           G15/G25 VAN 2WD      81800403
+G35 SPORTVAN 2WD                  15                                           G35 SPRTVN 2WD       81800443
+G35 VAN 2WD                       14                                           G35 VAN 2WD          81800483
+C15 JIMMY 2WD                     17                                           C15 JIMMY 2WD        81800503
+C15 SUBURBAN 2WD                  17                                           C15 SUBURBAN 2WD     81800553
+K15 JIMMY 4WD                     18                                           K15 JIMMY 4WD        81800653
+K15 SUBURBAN 4WD                  18                                           K15 SUBURBAN 4WD     81800703
+HESS & EISENHARDT                                                              HESS & EISENHARDT    81810002
+FUNERAL COACH                     19                                           FUNERAL COACH        81810103
+INTERNATIONAL HARVESTER                                                        INTNAT HARVESTER     81820002
+TERRA PICKUP 4WD                  13                                           TERRA P/U 4WD        81820053
+SCOUT II 2WD                      17                                           SCOUT II 2WD         81820103
+TRAVELER 2WD                      17                                           TRAVELER 2WD         81820153
+SCOUT II 4WD                      18                                           SCOUT II 4WD         81820203
+SS II 4WD                         18                                           SS II 4WD            81820253
+TRAVELER 4WD                      18                                           TRAVELER 4WD         81820303
+ISUZU                                                                          ISUZU                81840002
+P'UP PICKUP 2WD                   10                                           P'UP P/U 2WD         81840053
+P'UP PICKUP 4WD                   11                                           P'UP P/U 4WD         81840073
+JEEP                                                                           JEEP                 81850002
+JEEP: SCRAMBLER, CJ-5/7 4WD       18                                           SCRAMBLER, CJ-5/7 4WD81850053
+CHEROKEE/WAGONEER 4WD             18                                           CHROKEE/WGNEER 4WD   81850103
+J10 PICKUP 4WD                    13                                           J10 P/U 4WD          81850153
+J20 PICKUP 4WD                    13                                           J20 P/U 4WD          81850203
+MITSUBISHI                                                                     MITSUBISHI           81870002
+DODGE RAM50 PICKUP 2WD            10                                          *DODGE RAM50 P/U 2WD  81870053
+PLYMOUTH ARROW PICKUP 2WD         10                                          *PLYMTH ARROW P/U 2WD 81870103
+MAZDA                                                                          MAZDA                81880002
+B2000 PICKUP 2WD                  10                                           B2000 P/U 2WD        81880053
+B2000 CAB CHASSIS                                                              B2000 CAB CHAS.      81880153
+MODEL A AND MODEL T REPRODUCTION                                               MODEL A&T REPRO.     81888002
+MODEL A PICKUP REPRODUCTION 2WD   10                                           MODEL A P/U REPRO 2WD81888103
+PLYMOUTH                                                                       PLYMOUTH             81910002
+ARROW PICKUP 2WD                  10                                           ARROW P/U 2WD        81910053
+PB150/PB250 VOYAGER 2WD           15                                           PB150/250 VYGR 2WD   81910103
+PB350 VOYAGER 2WD                 15                                           PB350 VYGR 2WD       81910153
+PD150 TRAILDUSTER 2WD             17                                           PD150 TRLDSTR 2WD    81910253
+PW150 TRAILDUSTER 4WD             18                                           PW150 TRLDSTR 4WD    81910303
+FARGO D150 PICKUP 2WD             12                                          *FARGO D150 P/U 2WD   81910623
+FARGO D250 PICKUP 2WD             12                                          *FARGO D250 P/U 2WD   81910643
+FARGO W150 PICKUP 4WD             13                                          *FARGO W150 P/U 4WD   81910663
+FARGO W250 PICKUP 4WD             13                                          *FARGO W250 P/U 4WD   81910683
+B150/B250 VAN 2WD                 14                                          *B150/B250 VAN 2WD    81910763
+B350 VAN 2WD                      14                                          *B350 VAN 2WD         81910783
+FARGO D250 PICKUP CAB CHASSIS     19                                          *FARGO D250 P/U CAB CH81910903
+SUBARU                                                                         SUBARU               81915002
+BRAT 4WD                          18                                           BRAT 4WD             81915253
+SUPERIOR COACH                                                                 SUPERIOR COACH       81917002
+FUNERAL COACH                     19                                           FUNERAL COACH        81917103
+SUZUKI                                                                         SUZUKI               81920002
+LJ80V 4WD                         18                                           LJ80V 4WD            81920053
+LJ80 4WD                          18                                           LJ80 4WD             81920073
+LJ81 PICKUP 4WD                   11                                           LJ81 P/U 4WD         81920103
+TOYOTA                                                                         TOYOTA               81940002
+TRUCK 2WD                         10                                           TRUCK 2WD            81940053
+TRUCK 4WD                         13                                           TRUCK 4WD            81940073
+CAB CHASSIS                       19                                           CAB CHASSIS          81940103
+LAND CRUISER 4WD                  18                                           LAND CRUISER 4WD     81940153
+LAND CRUISER WAGON 4WD            18                                           LAND CRUISER WGN 4WD 81940203
+3/4 TON TRUCK 2WD                 12                                           3/4 TON TRUCK 2WD    81940253
+VOLKSWAGEN                                                                     VOLKSWAGEN           81970002
+VANAGON 2WD                       15                                           VANAGON 2WD          81970053
+PICKUP 2WD                        10                                           P/U 2WD              81970103
