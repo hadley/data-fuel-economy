@@ -1,0 +1,3 @@
+These R scripts process the yearly fuel economy data provided by the EPA (http://www.fueleconomy.gov/feg/download.shtml) into a common format (csv) for all years of data, from 1978 to 2008. 
+
+These scripts were mainly put together by Eric Henderson, with contributions from Hadley Wickham
